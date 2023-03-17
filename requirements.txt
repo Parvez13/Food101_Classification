@@ -1,0 +1,5 @@
+pandas
+streamlit
+tensorflow==2.4.1
+numpy
+altair
